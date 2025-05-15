@@ -1,5 +1,5 @@
 [project]
-name = "mcp-examples"
+name = "mcp-langchain-client-servers-examples"
 version = "0.1.0"
 description = "Example susing MCP"
 authors = [
